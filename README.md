@@ -362,3 +362,4 @@ This project leverages a number of open-source projects. We would like to acknow
 
 ## License
 Although the code is licensed under Apache 2, the models or weights may have commercial restrictions, as seen with pyannote diarization.
+"# SoniTranslate2025" 
